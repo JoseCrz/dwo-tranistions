@@ -57,3 +57,7 @@ body {
 .sesgado:hover {
   transform: skew(45deg);
 }
+
+.traslacion:hover {
+  transform: translateX(100px);
+}
