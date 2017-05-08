@@ -29,5 +29,9 @@ body {
 }
 
 .opacity {
+  opacity: 0;
+}
 
+.opacity:hover {
+  opacity: 1;
 }
