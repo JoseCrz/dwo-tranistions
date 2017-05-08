@@ -10,7 +10,16 @@ body {
 }
 
 .transicion{
+  /*Detallado:
+  transition-duration: .3s;
+  transition-property: opacity;
+  transition-timing-function: ease;*/
 
+  /*Resumido
+  transition: .3s opacity ease;*/
+
+   /*Afecta todas las propiedades con ease*/
+  transition: .3s;
 }
 
 .caja {
