@@ -35,3 +35,8 @@ body {
 .opacity:hover {
   opacity: 1;
 }
+
+.fuente:hover {
+  font-size: 20px;
+  font-weight: 600;
+}
