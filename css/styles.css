@@ -61,3 +61,7 @@ body {
 .traslacion:hover {
   transform: translateX(100px);
 }
+
+.mixtas:hover {
+  transform: rotate(45deg) scale(1.2) skew(30deg) translateX(50px);
+}
