@@ -45,3 +45,7 @@ body {
   color: #ec407a;
   background: #3f51b5;
 }
+
+.rotacion:hover {
+  transform: rotate(360deg);
+}
