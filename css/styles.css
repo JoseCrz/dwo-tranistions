@@ -53,3 +53,7 @@ body {
 .escala:hover {
   transform: scale(2);
 }
+
+.sesgado:hover {
+  transform: skew(45deg);
+}
